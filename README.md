@@ -1,5 +1,7 @@
 # Ridge and Lasso on the Wisconsin Breast Cancer Dataset
 
+**Archived coursework reference — preserved for history; not part of the active portfolio.**
+
 An academic experiment comparing regularized linear regression models on scikit-learn's binary breast-cancer dataset, with thresholded predictions and coefficient visualizations.
 
 ## Method
